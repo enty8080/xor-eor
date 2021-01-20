@@ -1,4 +1,4 @@
-.intel_syntax .noprefix
+.intel_syntax noprefix
 
 .globl _eor
 .align 2
